@@ -21,4 +21,9 @@
 
 </details>
 
+<details>
+<summary>2021/10/14 Chapter 11 (before The Bulk Copy Application) 😪
+</summary>
+
+</details>
 
