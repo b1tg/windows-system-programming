@@ -29,6 +29,15 @@
 
 <details>
 <summary>2021/10/15 Chapter 11 (before The Bulk Copy 2 Application)
+
+
+😭 太绕了，搞不懂
+
+source: http://writeasync.net/?p=2201  Introducing overlapped I/O 
+
+- [completion_ports.cpp](./sources/completion_ports.cpp)
+
+
 </summary>
 
 </details>
