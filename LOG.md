@@ -27,3 +27,10 @@
 
 </details>
 
+<details>
+<summary>2021/10/15 Chapter 11 (before The Bulk Copy 2 Application)
+</summary>
+
+</details>
+
+
