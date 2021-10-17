@@ -48,3 +48,8 @@ source: http://writeasync.net/?p=2201  Introducing overlapped I/O
 </summary>
 
 </details>
+
+<details>
+<summary>2021/10/17 Chapter 12 (before Memory Counters)
+</summary>
+</details>
