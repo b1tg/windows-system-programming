@@ -53,3 +53,8 @@ source: http://writeasync.net/?p=2201  Introducing overlapped I/O
 <summary>2021/10/17 Chapter 12 (before Memory Counters)
 </summary>
 </details>
+
+<details>
+<summary>2021/10/18 Chapter 12 (before Process Memory Map) (pointless day)
+</summary>
+</details>
