@@ -58,3 +58,10 @@ source: http://writeasync.net/?p=2201  Introducing overlapped I/O
 <summary>2021/10/18 Chapter 12 (before Process Memory Map) (pointless day)
 </summary>
 </details>
+
+
+<details>
+<summary>2021/10/19 Chapter 12 (The Simple VMMap Application)
+</summary>
+</details>
+
