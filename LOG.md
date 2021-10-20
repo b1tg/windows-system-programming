@@ -65,3 +65,7 @@ source: http://writeasync.net/?p=2201  Introducing overlapped I/O
 </summary>
 </details>
 
+<details>
+<summary>2021/10/20 Chapter 12 (in Sharing Memory)
+</summary>
+</details>
