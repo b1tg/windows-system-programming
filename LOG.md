@@ -87,3 +87,8 @@ source: http://writeasync.net/?p=2201  Introducing overlapped I/O
 <summary>2021/10/25 Chapter 5 (A Thread’s Stack - What About the C++..)
 </summary>
 </details>
+<details>
+
+<summary>2021/10/27 Chapter 5 (over except The Primes Counter..)
+</summary>
+</details>
